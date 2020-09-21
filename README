@@ -1,0 +1,4 @@
+This repo contains the code for the Real Python course on Python decorators including real world examples for:
+1. Timing functions
+2. Slowing down while iterating on functions
+3. Debugging functions
